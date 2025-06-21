@@ -20,7 +20,7 @@ UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
 YAXArrays = "c21b50f5-aa40-41ea-b809-c0f5e47bfa5c"
 
 [compat]
-CairoMakie = "0.13.2"
+CairoMakie = "0.13.2, 0.14"
 DifferentialEquations = ">=7.16.0"
 DimensionalData = "0.29.12"
 LinearAlgebra = ">=1.9.0"
